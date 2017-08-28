@@ -10,12 +10,10 @@
 
 # Demo
 ## Fedora下的演示
-![Fedora下的演示](https://github.com/hanielf/jict/blob/master/demo/fedora_Demo.png)
+![Fedora下的演示](https://github.com/hanielf/jict/raw/master/demo/fedora_Demo.png)
 
 # 安装
 
-> git clone https://github.com/HanielF/Jict.git
-
+> git clone `https://github.com/HanielF/Jict.git`
 > cd Jict
-
 > sudo ln -f jict.sh /usr/local/bin/jict
