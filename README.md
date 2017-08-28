@@ -10,7 +10,7 @@
 
 # Demo
 ## Fedora下的演示
-![Fedora下的演示](https://github.com/hanielf/jict/raw/master/demo/fedora_Demo.png)
+![Fedora下的演示](https://github.com/hanielf/jict/raw/master/demo/fedora_demo.png)
 
 # 安装
 
