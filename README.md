@@ -14,6 +14,8 @@
 
 # 安装
 
-> git clone `https://github.com/HanielF/Jict.git`
-> cd Jict
-> sudo ln -f jict.sh /usr/local/bin/jict
+```shell
+    git clone `https://github.com/HanielF/Jict.git`
+    cd Jict
+    sudo ln -f jict.sh /usr/local/bin/jict
+```
